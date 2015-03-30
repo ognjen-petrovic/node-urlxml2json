@@ -1,0 +1,37 @@
+{
+  "name": "node-urlxml2json",
+  "version": "0.0.1",
+  "description": "Conver xml, from URL, to JSON",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ognjen-petrovic/node-urlxml2json.git"
+  },
+  "keywords": [
+    "xml",
+    "url",
+    "json",
+    "xml2json",
+    "xml",
+    "to",
+    "json",
+    "xml",
+    "url",
+    "to",
+    "json"
+  ],
+  "author": "Ognjen Petrovic",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/ognjen-petrovic/node-urlxml2json/issues"
+  },
+  "dependencies": {
+    "xml2json": "~0.6.1"
+  }
+}
